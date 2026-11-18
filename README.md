@@ -85,7 +85,7 @@ python -m streamlit run chat_app.py
 
 The Streamlit web app is deployed using Streamlit Community Cloud. The Gemini API key is configured through the app's Secrets settings rather than committed to the repository.
 
-**Live Demo:** Add your deployed Streamlit app URL here.
+**Live Demo:*https://kavya-gemini-chatbot.streamlit.app/* Add your deployed Streamlit app URL here.
 
 ## What I Learned
 
